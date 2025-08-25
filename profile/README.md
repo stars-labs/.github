@@ -24,7 +24,7 @@ Want to contribute? Read our guide:
 ---
 
 ## 📚 Resources
-- Official Website: *(coming soon)*  
+- 🌐 Official Website: [starslab.qzz.io](https://starslab.qzz.io)  
 - Docs: *(work in progress)*  
 - Community Discussions: *(TBD)*  
 
