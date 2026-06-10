@@ -14,4 +14,4 @@ This is the special `.github` repository for the **stars-labs** GitHub organizat
 - Changes are Markdown-only; there is nothing to build, lint, or test.
 - Edits to `profile/README.md` are immediately public on the organization's GitHub page once pushed to `main` — review wording carefully before committing.
 - Keep the existing tone and emoji-heavy style of the profile README when editing it.
-- `profile/README.md` is bilingual (English + 简体中文, "Stars Lab · 星辰实验室"). Any content change must be applied to both language sections to keep them in sync.
+- The profile README is English-only by default; `profile/README.zh-CN.md` is the Chinese (简体中文) version, cross-linked from the header. Any content change must be applied to both files to keep them in sync.
