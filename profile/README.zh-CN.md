@@ -22,6 +22,12 @@
 
 我们的使命是不断突破**去中心化、智能化与人机协作**的边界——构建开放、可扩展、面向未来的系统。
 
+## 🔥 重点项目 — pg-outcry · OUTCRY
+
+**开设你自己的加密货币交易所（CEX）——完全运行于 PostgreSQL 之中。** 撮合、结算、钱包、风控、实时推送与身份认证，**请求路径上无需任何应用服务器**。让小型企业也能在自己熟悉的数据库上运行一个完整的交易所。
+
+[▶ 在线演示](https://stars-labs.github.io/pg-outcry/?api=https://axtziasfallmdgssbgsl.supabase.co&anon=sb_publishable_j1Jr-NMeKb_P29JcBRhz6Q_0ZkbVzUc&demo=1) · [代码仓库](https://github.com/stars-labs/pg-outcry) · `PostgreSQL` · `PostgREST` · `Supabase` · `AGPL-3.0`
+
 ## 🚀 参与我们
 
 - 阅读[贡献指南](https://stars-labs.github.io/stars-labs/)，开始你的第一个贡献
