@@ -12,15 +12,18 @@
 
 ## 🌍 About Us
 
-**Stars Lab** is an independent research & development lab exploring the **next generation of technologies** at the intersection of:
+**Stars Lab** is an independent research and development lab focused on building open, scalable systems at the intersection of **Blockchain, AI, and Humanoid Robotics**.
 
 | | Focus | What we build |
 |---|---|---|
 | ⛓️ | **Blockchain Infrastructure** | High-performance, secure, and modular blockchain protocols |
+| 🪙 | **Crypto Exchange** | PostgreSQL-native exchange infrastructure for matching, settlement, wallets, and risk controls |
 | 🤖 | **Artificial Intelligence** | Applied AI for autonomy, reasoning, and intelligent systems |
 | 🦾 | **Humanoid Robotics** | Robotics, control systems, and real-world deployment |
+| 📈 | **Quantitative Trading** | Exchange execution, research, and strategy research workflows |
+| 🎮 | **Gaming** | Game technologies spanning cloud-native platforms, real-time interaction, and gameplay systems |
 
-Our mission is to push the boundaries of **decentralization, intelligence, and human–machine collaboration** — building systems that are open, scalable, and future-ready.
+Our mission is to accelerate practical innovation across these fields, delivering systems that are transparent, scalable, and ready for real-world deployment.
 
 ## 🔥 Featured — pg-outcry · OUTCRY
 
