@@ -28,6 +28,12 @@
 
 [▶ 在线演示](https://stars-labs.github.io/pg-outcry/?api=https://axtziasfallmdgssbgsl.supabase.co&anon=sb_publishable_j1Jr-NMeKb_P29JcBRhz6Q_0ZkbVzUc&demo=1) · [代码仓库](https://github.com/stars-labs/pg-outcry) · `PostgreSQL` · `PostgREST` · `Supabase` · `AGPL-3.0`
 
+## 🔥 重点项目 — quant
+
+**探索量化交易系统，用于交易所级执行与策略研发。** 兼顾性能、可靠性和清晰的策略协作流程。
+
+[▶ 在线演示](https://quant.starslab.qzz.io) · [代码仓库](https://github.com/stars-labs/quant) · `量化交易` · `高频`
+
 ## 🚀 参与我们
 
 - 阅读[贡献指南](https://stars-labs.github.io/stars-labs/)，开始你的第一个贡献

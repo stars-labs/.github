@@ -28,6 +28,12 @@ Our mission is to push the boundaries of **decentralization, intelligence, and h
 
 [▶ Live demo](https://stars-labs.github.io/pg-outcry/?api=https://axtziasfallmdgssbgsl.supabase.co&anon=sb_publishable_j1Jr-NMeKb_P29JcBRhz6Q_0ZkbVzUc&demo=1) · [Repository](https://github.com/stars-labs/pg-outcry) · `PostgreSQL` · `PostgREST` · `Supabase` · `AGPL-3.0`
 
+## 🔥 Featured — quant
+
+**Explore our quantitative trading stack for exchange-grade execution and strategy research.** Built for speed, reliability, and clear strategy workflows.
+
+[▶ Live demo](https://quant.starslab.qzz.io) · [Repository](https://github.com/stars-labs/quant) · `Quantitative` · `Trading`
+
 ## 🚀 Get Involved
 
 - Read our [Contribution Guide](https://stars-labs.github.io/stars-labs/) to start contributing
